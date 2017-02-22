@@ -1,7 +1,7 @@
 ---
 title: Bypassing Cache with HTTP Headers
 description: Set HTTP headers to disable caching along Pantheon's edge layer, Varnish.
-tags: [cache]
+tags: [cache, edge]
 categories: [performance, cache]
 ---
 ## Exclude Specific Pages from Caching

@@ -1,7 +1,7 @@
 ---
 title: Using Drupal 8 and Composer
 description: Use Composer to manage modules and other dependencies for Drupal 8 sites on Pantheon.
-tags: [automate]
+tags: [workflow, develop]
 categories: [automate]
 contributors:
   - stevector

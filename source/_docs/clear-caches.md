@@ -1,7 +1,7 @@
 ---
 title: Clearing Caches for Drupal and WordPress
 description: Learn how to purge Varnish for Drupal and WordPress sites on Pantheon.
-tags: [performance, cache]
+tags: [cache, application]
 categories: [performance, cache]
 ---
 Pantheon extends the core functionality of caching mechanisms within WordPress and Drupal so that caches are cleared within the site's frame and along our edge caching layer, Varnish.
